@@ -11,7 +11,7 @@
 ## See the price of a coin compared to another
 ![](https://i.imgur.com/HlaPC5h.png)
 
-### At a specific amount of the coin
+### > At a specific amount of the coin
 ![](https://i.imgur.com/PR0bPCu.png)
 
 # Frequently Asked Questions (FAQ)
