@@ -4,6 +4,16 @@
 * [Discord server](https://discord.gg/Rcp9sEJ)
 * Want to have a question listed here? Shoot me a message on Discord or submit an [issues](https://github.com/Botcoins/v2-docs/pulls) here.
 
+# Getting Started - Generic Cryptos
+## See the price of a coin
+![](https://i.imgur.com/Fba8rwt.png)
+
+## See the price of a coin compared to another
+![](https://i.imgur.com/HlaPC5h.png)
+
+### At a specific amount of the coin
+![](https://i.imgur.com/PR0bPCu.png)
+
 # Frequently Asked Questions (FAQ)
 ## How do I open the help menu?
 Ahh the first step to helping yourself! Do `$chelp` for a list of commands and do `$chelp command` for the details.
