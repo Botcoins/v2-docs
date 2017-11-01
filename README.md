@@ -1,7 +1,10 @@
-# About Botcoins
-// To be filled with basic information
+# How do I add Botcoins to my Discord Server/Guild?
+[Click on this link](https://discordapp.com/oauth2/authorize?scope=bot&client_id=345450194613043201&permissions=67387456)
 
-* [Discord server](https://discord.gg/Rcp9sEJ)
+# About Botcoins
+Botcoins is a discord chat bot designed to feed you with crypto information.
+
+* [Support Discord Server](https://discord.gg/Rcp9sEJ)
 * Want to have a question listed here? Shoot me a message on Discord or submit an [issues](https://github.com/Botcoins/v2-docs/pulls) here.
 
 # Getting Started - Generic Cryptos
