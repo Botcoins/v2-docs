@@ -4,7 +4,7 @@
 # About Botcoins
 Botcoins is a discord chat bot designed to feed you with crypto information. The bot sources data from various places such as CoinMarketCap, Coinbase and Bitpay (and more in the future.) We support most currencies that are listed on CoinMarketCap.
 
-## Helpful links
+## Helpful information
 * [This page](https://botcoins.github.io/v2-docs)
 * [Support Discord Server](https://discord.gg/Rcp9sEJ)
 * I am always opened to suggestions! Shoot me a message on Discord or submit an [issues](https://github.com/Botcoins/v2-docs/pulls) here.
@@ -22,6 +22,8 @@ Botcoins is a discord chat bot designed to feed you with crypto information. The
 # Frequently Asked Questions (FAQ)
 ## How do I open the help menu?
 Ahh the first step to helping yourself! Do `$chelp` for a list of commands and do `$chelp command` for the details.
+
+![](https://i.imgur.com/4GVeq4q.png)
 
 ## How do I make Botcoins show a certain coin's prices in the nickname?
 By default, Botcoins shows the `BTCUSD` pair, just do `$cconfig enablenickstatus` to activate this function.
