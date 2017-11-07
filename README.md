@@ -33,3 +33,13 @@ By default, Botcoins shows the `BTCUSD` pair, just do `$cconfig enablenickstatus
 
 ### Warning
 This function creates a lot of audit log entries. ![like this](https://i.imgur.com/gay5Hra.png)
+
+# Migration
+Old commands from botcoins prefixed with `btc.` are now prefixed with `$cbtc`
+
+## Example: Old
+![](https://i.imgur.com/BIy7HXd.png)
+
+## Example: New
+![](https://i.imgur.com/fiRxcan.png)
+
