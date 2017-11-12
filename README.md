@@ -1,8 +1,8 @@
+# About Botcoins
+Botcoins is a discord chat bot designed to feed you with crypto information. The bot sources data from various places such as CoinMarketCap, Coinbase, Bitpay, Bitfinex and Bittrex (and more in the future.) We support most currencies that are listed on CoinMarketCap.
+
 # How do I add Botcoins to my Discord Server/Guild?
 [Click on this link](https://discordapp.com/oauth2/authorize?scope=bot&client_id=345450194613043201&permissions=67387456)
-
-# About Botcoins
-Botcoins is a discord chat bot designed to feed you with crypto information. The bot sources data from various places such as CoinMarketCap, Coinbase and Bitpay (and more in the future.) We support most currencies that are listed on CoinMarketCap.
 
 ## Helpful information
 * [This page](https://botcoins.github.io/v2-docs)
