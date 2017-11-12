@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/chat-Discord-blue.svg)](https://discord.gg/Rcp9sEJ)
+
 # About Botcoins
 Botcoins is a discord chat bot designed to feed you with crypto information. The bot sources data from various places such as CoinMarketCap, Coinbase, Bitpay, Bitfinex and Bittrex (and more in the future.) We support most currencies that are listed on CoinMarketCap.
 
