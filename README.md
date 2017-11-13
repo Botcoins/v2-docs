@@ -1,15 +1,15 @@
-[![](https://img.shields.io/badge/discord-chat-blue.svg)](1)
-[![](https://img.shields.io/badge/discord-bot_invite-blue.svg)](2)
+[![](https://img.shields.io/badge/discord-chat-blue.svg)][1]
+[![](https://img.shields.io/badge/discord-bot_invite-blue.svg)][2]
 
 # About Botcoins
 Botcoins is a discord chat bot designed to feed you with crypto information. The bot sources data from various places such as CoinMarketCap, Coinbase, Bitpay, Bitfinex and Bittrex (and more in the future.) We support most currencies that are listed on CoinMarketCap.
 
 # How do I add Botcoins to my Discord Server/Guild?
-[Click on this link](2)
+[Click on this link][2]
 
 ## Helpful information
 * [This page](https://botcoins.github.io/v2-docs)
-* [Support Discord Server](1)
+* [Support Discord Server][1]
 * I am always opened to suggestions! Shoot me a message on Discord or submit an [issues](https://github.com/Botcoins/v2-docs/pulls) here.
 
 # Getting Started - Generic Cryptos
