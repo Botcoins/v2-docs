@@ -37,6 +37,11 @@ By default, Botcoins shows the `BTCUSD` pair, just do `$cconfig enablenickstatus
 ### Warning
 This function creates a lot of audit log entries. ![like this](https://i.imgur.com/gay5Hra.png)
 
+## How to I view the price chart?
+Easy, just do `$cgraph BTC` if you're looking for `BTC`, otherwise replace it with something like `XMR` or `ETH`.
+
+![](https://i.imgur.com/fGRzax5.png)
+
 # Migration
 Old commands from botcoins prefixed with `btc.` are now prefixed with `$cbtc`
 
