@@ -42,7 +42,7 @@ Easy, just do `$cgraph BTC` if you're looking for `BTC`, otherwise replace it wi
 
 ![](https://i.imgur.com/fGRzax5.png)
 
-![](https://cdn.discordapp.com/attachments/296098470434045954/381377808934371328/botcoins-ohlc-chart-7d-monero-1678886.png)
+![](https://cdn.discordapp.com/attachments/296098470434045954/381960738102706177/botcoins-ohlc-chart-7d-monero-1679041.png)
 
 # Migration
 Old commands from botcoins prefixed with `btc.` are now prefixed with `$cbtc`
