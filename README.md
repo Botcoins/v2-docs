@@ -14,22 +14,22 @@ Botcoins is a discord chat bot designed to feed you with crypto information. The
 
 # Getting Started - Generic Cryptos
 ## See the price of a coin
-![](https://i.imgur.com/Fba8rwt.png)
+![botcoins.p](https://i.imgur.com/Fba8rwt.png)
 
 ### > In a reduced IRC-styled line
-![](https://i.imgur.com/717LzEC.png)
+![botcoins.f](https://i.imgur.com/717LzEC.png)
 
 ## See the price of a coin compared to another
-![](https://i.imgur.com/HlaPC5h.png)
+![botcoins.c](https://i.imgur.com/HlaPC5h.png)
 
 ### > At a specific amount of the coin
-![](https://i.imgur.com/PR0bPCu.png)
+![botcoins.c amt](https://i.imgur.com/PR0bPCu.png)
 
 # Frequently Asked Questions (FAQ)
 ## How do I open the help menu?
 Ahh the first step to helping yourself! Do `$chelp` for a list of commands and do `$chelp command` for the details.
 
-![](https://i.imgur.com/4GVeq4q.png)
+![botcoins.h](https://i.imgur.com/4GVeq4q.png)
 
 ## How do I make Botcoins show a certain coin's prices in the nickname?
 By default, Botcoins shows the `BTCUSD` pair, just do `$cconfig enablenickstatus` to activate this function.
@@ -43,18 +43,18 @@ This function creates a lot of audit log entries. ![like this](https://i.imgur.c
 ## How to I view the price chart?
 Easy, just do `$cgraph BTC` if you're looking for `BTC`, otherwise replace it with something like `XMR` or `ETH`.
 
-![](https://i.imgur.com/fGRzax5.png)
+![botcoins.g](https://i.imgur.com/fGRzax5.png)
 
-![](https://cdn.discordapp.com/attachments/296098470434045954/381960738102706177/botcoins-ohlc-chart-7d-monero-1679041.png)
+![example graph output](https://cdn.discordapp.com/attachments/296098470434045954/381960738102706177/botcoins-ohlc-chart-7d-monero-1679041.png)
 
 # Migration
 Old commands from botcoins prefixed with `btc.` are now prefixed with `$cbtc`
 
 ## Example: Old
-![](https://i.imgur.com/BIy7HXd.png)
+![migration.example.old](https://i.imgur.com/BIy7HXd.png)
 
 ## Example: New
-![](https://i.imgur.com/fiRxcan.png)
+![migration.example.new](https://i.imgur.com/fiRxcan.png)
 
 [1]: https://discord.gg/Rcp9sEJ
 [2]: https://discordapp.com/oauth2/authorize?scope=bot&client_id=345450194613043201&permissions=67387456
