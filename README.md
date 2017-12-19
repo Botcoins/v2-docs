@@ -16,6 +16,9 @@ Botcoins is a discord chat bot designed to feed you with crypto information. The
 ## See the price of a coin
 ![](https://i.imgur.com/Fba8rwt.png)
 
+### > In a reduced IRC-styled line
+![](https://i.imgur.com/717LzEC.png)
+
 ## See the price of a coin compared to another
 ![](https://i.imgur.com/HlaPC5h.png)
 
