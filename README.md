@@ -10,7 +10,7 @@ Botcoins is a discord chat bot designed to feed you with crypto information. The
 ## Helpful information
 * [This page](https://botcoins.github.io/v2-docs)
 * [Support Discord Server][1]
-* I am always opened to suggestions! Shoot me a message on Discord or submit a [suggestion here!](https://github.com/Botcoins/issue-tracker/issues)
+* I am always opened to suggestions! Shoot me a message on Discord or submit a [suggestion here!](https://botcoins.github.io/issue-tracker)
 
 # Getting Started - Generic Cryptos
 ## See the price of a coin
