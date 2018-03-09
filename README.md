@@ -56,5 +56,5 @@ Old commands from botcoins prefixed with `btc.` are now prefixed with `$cbtc`
 ## Example: New
 ![migration.example.new](https://i.imgur.com/fiRxcan.png)
 
-[1]: https://discord.gg/Rcp9sEJ
+[1]: https://discord.gg/Skkh7mQ
 [2]: https://discordapp.com/oauth2/authorize?scope=bot&client_id=345450194613043201&permissions=67387456
